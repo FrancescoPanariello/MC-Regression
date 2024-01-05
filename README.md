@@ -19,4 +19,6 @@ ID,yield
 1,25.6
 2,19.7
 ```
+##Soluzione Proposta:
+![MC2 Regression](https://github.com/FrancescoPanariello/MC-Regression/assets/72973754/2c8d65a4-e1f7-4f27-b4f4-16afec0302e2)
 
